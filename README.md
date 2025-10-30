@@ -72,7 +72,7 @@ The current version of DisasterAidLedger lays the foundation for a transparent a
 
 
 
-## Conttract Details : 0x70bc7B7ae36cf72B4DCd66A6c264899463E045Ce
+## Contract Details : 0x70bc7B7ae36cf72B4DCd66A6c264899463E045Ce
 <img width="1920" height="1080" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/752541a3-8ffd-44ed-bbc3-efa80f3b237b" />
 
 
