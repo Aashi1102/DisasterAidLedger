@@ -52,4 +52,3 @@ contract DisasterAidLedger {
         return (total, userDonations.length);
     }
 }
-
