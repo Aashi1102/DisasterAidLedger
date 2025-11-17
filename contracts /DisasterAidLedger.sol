@@ -77,4 +77,16 @@ contract DisasterAidLedger {
 
         return (total, userDonations.length);
     }
+        /**
+     * @notice Change the admin account.
+     * @param newAdmin The new admin address.
+     */
+    function changeAdmin(address newAdmin) external onlyAdmin {
+        require(newAdmin != address(0), "Invalid new admin");
+
+        address old = admin;
+        admin = newAdmin;
+
+        emit AdminChanged(old, newAdmin);
+    }
 }
