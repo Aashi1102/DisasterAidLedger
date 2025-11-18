@@ -4,7 +4,6 @@
 **DisasterAidLedger – Relief Fund Tracking**
 
 ---
-
 ## 🧾 Project Description
 DisasterAidLedger is a **decentralized application (DApp)** designed to ensure **transparency, accountability, and trust** in the management of disaster relief funds.  
 During natural disasters or humanitarian crises, a lack of visibility often leads to mismanagement or misuse of aid money. This blockchain-based ledger provides a **secure and immutable record** of donations and fund distributions, ensuring that every contribution reaches those in genuine need.
